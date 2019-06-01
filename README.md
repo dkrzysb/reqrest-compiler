@@ -67,7 +67,6 @@ print(deleteResponse)#
 newline#
 
 def i = 0#
-print("")#
 while(i lt 5) {
     print(i)#
     i = i add 1#
